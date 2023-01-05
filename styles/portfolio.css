@@ -17,7 +17,7 @@
     height: 64px;
     border-radius: 5px;
     background: #FD6E0A;
-    margin-bottom: 113px;
+    
 }
 
 .header {
@@ -31,7 +31,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
